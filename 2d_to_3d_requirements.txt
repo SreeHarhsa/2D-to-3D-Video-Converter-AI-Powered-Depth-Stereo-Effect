@@ -1,0 +1,7 @@
+numpy==1.24.3
+opencv-python==4.8.0.76
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.30.2
+streamlit==1.26.0
+pillow==9.5.0

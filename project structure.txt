@@ -1,0 +1,18 @@
+2d-to-3d-converter/
+│
+├── app.py                  # Main application file
+├── requirements.txt        # Dependencies
+├── README.md               # Project documentation
+├── LICENSE                 # License file
+├── .gitignore              # Git ignore file
+├── run.sh                  # Unix/Mac startup script
+├── run.bat                 # Windows startup script
+│
+├── examples/               # Example usage
+│   └── process_example.py  # Example script
+│
+├── screenshots/            # Application screenshots
+│   └── placeholder.txt     # Placeholder for Git
+│
+└── tests/                  # Test files
+    └── test_depth_estimator.py  # Test for depth estimation
